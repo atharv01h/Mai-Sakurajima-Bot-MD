@@ -1,4 +1,4 @@
-https://github.com/atharvhatwar/Mai-Sakurajima-Bot-MD/blob/e9931e3f0145b94ab3f45556c217b3af9c0c4f8d/system/Mai2.mp4
+<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/167/572/994/mai-sakurajima-anime-seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-o-minai-hd-wallpaper-preview.jpg">
 
      
 <h1 align="center"> Mai Sakurajima
