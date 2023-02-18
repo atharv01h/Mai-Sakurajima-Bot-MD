@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9d3d4de9-c7dc-4c63-984f-67abffca4cee/AppServices/subscriptions/9d3d4de9-c7dc-4c63-984f-67abffca4cee/resourceGroups/atharv_group/providers/Microsoft.Web/sites/maibota",
+    "appService.deploySubpath": "."
+}
