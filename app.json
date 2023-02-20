@@ -1,8 +1,8 @@
 {
-  "name": "Miku-MD",
+  "name": "Mai-MD",
   "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
-  "repository": "https://github.com/FantoX001/Miku-MD",
-  "logo": "https://wallpapercave.com/wp/wp10524580.jpg",
+  "repository": "https://github.com/atharvhatwar/Mai-Sakurajima-Bot-MD/",
+  "logo": "",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
