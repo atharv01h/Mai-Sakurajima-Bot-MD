@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://c4.wallpaperflare.com/wallpaper/167/572/994/mai-sakurajima-anime-seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-o-minai-hd-wallpaper-preview.jpg">
+<img align="right" alt="Coding" width="1800" src="https://c4.wallpaperflare.com/wallpaper/167/572/994/mai-sakurajima-anime-seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-o-minai-hd-wallpaper-preview.jpg">
 
      
 <h1 align="center"> Mai Sakurajima
