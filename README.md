@@ -4,7 +4,7 @@
 <h1 align="center"> Mai Sakurajima
 </h1>
 <p align="center"> 
-  Konochiwa , I am "Mai" a WhatsApp bot made by Atharv remoded bot of Fantoxx Miku Md to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Konochiwa , I am "Mai" a WhatsApp bot made by Atharv to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 
 
